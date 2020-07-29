@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650680935602",
+    "firebase_url": "https://filmfox-ef803.firebaseio.com",
+    "project_id": "filmfox-ef803",
+    "storage_bucket": "filmfox-ef803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650680935602:android:b0f5339362d8380d6855ab",
+        "android_client_info": {
+          "package_name": "com.filmfox.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650680935602-g62e2ivfqschpumbhpugj9t04dtgovkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filmfox.flutterapp",
+            "certificate_hash": "3b2b9fe81a0cf4f98a00282ce2f8e06d70d26915"
+          }
+        },
+        {
+          "client_id": "650680935602-6ddpmmhp1crmk8pj9tcuk8c2geatem9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbXEDq-UfXZsOXnTOLDVcZeszB4aIfOZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650680935602-6ddpmmhp1crmk8pj9tcuk8c2geatem9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
